@@ -117,8 +117,9 @@ centos安装方法：
 
 BBR加速安装
 ---------------------------------
-**输入**：`wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh`
-
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
 ![image](https://user-images.githubusercontent.com/94978556/145380739-3fbc2210-a1fa-4a8a-8096-e740152855cd.png)
 
 **选择你需要的内核然后等待安装好后使用你安装的内核就好了**
